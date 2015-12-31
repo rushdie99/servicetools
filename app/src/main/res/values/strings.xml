@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HTC Function Test v4.04.01g</string>
+    <string name="btn_about">About</string>
+    <string name="btn_select_all">Select All</string>
+    <string name="btn_run">Run</string>
+    <string name="btn_more">More</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_off">Off</string>
+    <string name="btn_on">On</string>
+    <string name="software_ver_title">Software Version</string>
+    <string name="device_info_title">Device Information</string>
+    <string name="hardware_info_title">Hardware Information</string>
+    <string name="about_title">Copyright</string>
+    <string name="app_instruct1">HTC Self-Diagnostic Instruction Manual</string>
+    <string name="app_instruct2">The following instructions must be done step-by-step. Some of the diagnostic test items are subjective. The results shown in this manual are for reference only. HTC has the right to determine whether the test passes or fails according to the details of the testing process.</string>
+    <string name="Button_instruct">ACCEPT</string>
+    <string name="Button_Cancel">CANCEL</string>
+    <string name="copyright_msg">Copyright(c) 2001-2012 HTC Corp. All rights reserved</string>
+    <string name="app_label">HTC Function Test v4.04.01g</string>
+    <string name="function_instruct">Choose the appropriate test item then press \"run\"</string>
+    <string name="BackMain_Page">Once the test is finished, press back key can go back to the self-diagnostic program</string>
+    <string name="NextStep_msg">Once the test is finished, press back key to go to the next test</string>
+    <string name="PassorFail_msg">Does it work normally?</string>
+    <string name="Pass_msg">Yes</string>
+    <string name="Fail_msg">No</string>
+    <string name="declare_ins">Instruction</string>
+    <string name="declare_NextStep">Press back key to go to the next test</string>
+    <string name="declare_NextStep2">Press back key to go to next step</string>
+    <string name="audio_Title">Audio Test</string>
+    <string name="audio_instruction">Instruction</string>
+    <string name="btn_audio_receiver_test">Receiver test</string>
+    <string name="audio_headset_hint">"Please remove Headset"</string>
+    <string name="audio_Ins1">"Press 'Receiver test', then move the device near your ear."</string>
+    <string name="audio_Ins2_1">"Tap 'Test top speaker'"</string>
+    <string name="audio_Ins2_2">"Tap 'Test bottom speaker'"</string>
+    <string name="audio_Ins2_3">"Tap 'Test both speakers'"</string>
+    <string name="audio_Ins3">"Press 'Rec'"</string>
+    <string name="audio_Ins4">"Press 'Stop'"</string>
+    <string name="audio_Ins5">"Press 'Play', then move the device near your ear."</string>
+    <string name="audio_Ins6">"Press 'Stop'"</string>
+    <string name="audio_Result1">It passed the test if you hear high frequency sound</string>
+    <string name="audio_Result2">It passed the test if you hear the music</string>
+    <string name="audio_Result3">start recording your voice.</string>
+    <string name="audio_Result4">It passed the test if you hear sound comes out from the speaker</string>
+    <string name="audio_dec1">"Please don't set the device under soundless status before starting the Audio Test"</string>
+    <string name="audio_dec2">You can check \"Settings > Device > Audio profiles\"</string>
+    <string name="audio_Ins7">"'Main MIC test'"</string>
+    <string name="audio_Ins8">"'2nd MIC test'"</string>
+    <string name="audio_speaker_Btn">Speaker test</string>
+    <string name="audio_Btn_Ins1">"Press 'speaker test'"</string>
+    <string name="audio_Btn_mic">Rec</string>
+    <string name="audio_Btn_mic_play">Play</string>
+    <string name="audio_Btn_mic_stop">Stop</string>
+    <string name="backlight_Title">Backlight Test</string>
+    <string name="backlight_Ins1">"Press 'Off'"</string>
+    <string name="backlight_Ins2">"It passed the test if the backlight is 'ON'"</string>
+    <string name="backlight_Ins3">"Press 'On'"</string>
+    <string name="backlight_Ins4">"It passed the test if the backlight is 'OFF'"</string>
+    <string name="BT_Title">Bluetooth Test</string>
+    <string name="BT_Ins1">"Another device:
+Please prepare another device, 
+ Turn on the Bluetooth and choose ‘Discoverable’"</string>
+    <string name="BT_Ins2">"Your device:
+Turning Bluetooth On and then 'tip Bluetooth' 
+ It passed the test if your device detected another device"</string>
+    <string name="BT_Ins3">It passed the test if your device detected another device</string>
+    <string name="button_Title">Button Test</string>
+    <string name="button_Ins1">Press the bar and the button on the side of the device</string>
+    <string name="button_Ins2">It passed the test if arrows disappear after pressing the buttons</string>
+    <string name="camera_Title">SD card +Camera Test</string>
+    <string name="camera_instruction">Instruction</string>
+    <string name="camera_Ins0">Make sure the SD card has been inserted into the device</string>
+    <string name="camera_Ins1">In the camera mode, take a picture, It passed the test if the picture is taken \n\n (Warning! Please turn OFF all data connection (LTE, 4G, 3G, WIFI) prior to testing. This is to prevent photos taken by the camera from uploading to user’s Dropbox.)</string>
+    <string name="camera_Ins2">Once the test is finished, press back key to go to the next test</string>
+    <string name="charger_Title">Charger test</string>
+    <string name="charger_Ins1">Please plug the charger into the device</string>
+    <string name="charger_Ins2">"Check the battery charging status in the notification bar. 
+It passes the test if the battery has a charging icon indicated on it."</string>
+    <string name="flashlight_Title">Flashlight Test</string>
+    <string name="flashlight_Insturct">Please press the On button for testing.</string>
+    <string name="flashlight_Ins1">"Press 'On'"</string>
+    <string name="flashlight_Ins2">"It passed the test if the flashlight is 'ON'"</string>
+    <string name="flashlight_Ins3">"Press 'Off'"</string>
+    <string name="flashlight_Ins4">"It passed the test if the flashlight is 'OFF'"</string>
+    <string name="HST_Title">Headset Test</string>
+    <string name="HST_Insturct1">Press the pick-up button on the headset</string>
+    <string name="HST_Ins1">Ensure your headset is in good condition</string>
+    <string name="HST_Ins2">Please Plug in headset</string>
+    <string name="HST_Ins3">Press the headset pick-up button or press back key to skip this step if your headset doesn’t have pick-up button</string>
+    <string name="HST_Ins4">Please put on the headset and then press back key to next step</string>
+    <string name="HST_Ins5">"Press 'Rec'"</string>
+    <string name="HST_Ins6">"Press 'Stop'"</string>
+    <string name="HST_Ins7">"Press 'Play'"</string>
+    <string name="HST_Ins8">"Press 'Stop'"</string>
+    <string name="HST_Ins9">"Press 'Headset Test'"</string>
+    <string name="HST_Result1">Headset plug in</string>
+    <string name="HST_Result2">It passed the test if you hear the music.</string>
+    <string name="HST_Result3">Start recording your voice.</string>
+    <string name="HST_Result4">It passed the test if you hear sound comes out from the headset</string>
+    <string name="HST_Result5">Pick-up pass</string>
+    <string name="HST_dec1">"Please don't set the device under soundless status before starting the Headset Test"</string>
+    <string name="HST_dec2">You can check \"Settings > Device > Audio profiles</string>
+    <string name="led_Title">LED Test</string>
+    <string name="touchCkb_msg">Line Drawing Test</string>
+    <string name="touchCkb_msg_no_time_limit">Line Drawingtest (No time-limit)</string>
+    <string name="linedraw_Insturct">Touch the screen</string>
+    <string name="linedraw_Insturct1">Please start to drawing</string>
+    <string name="linedraw_Ins1">It passed the test if the drawing shown on the screen accordingly</string>
+    <string name="vibrator_Title">Vibrator Test</string>
+    <string name="vibrator_Insturct">Please press the start button for testing.</string>
+    <string name="vib_Ins1">"Press 'Start'"</string>
+    <string name="vib_Ins2">"It passed the test if the vibration is 'Activated'"</string>
+    <string name="vib_Ins3">"Press 'Stop'"</string>
+    <string name="vib_Ins4">"It passed the test if the vibration is 'Stopped'"</string>
+    <string name="vib_start">Start</string>
+    <string name="vib_stop">Stop</string>
+    <string name="Wifi_Title">Wi-Fi Test</string>
+    <string name="Wifi_Ins1">"Make sure the Wi-Fi Access Point is 'ON'"</string>
+    <string name="Wifi_Ins2">"Turning Wi-Fi On and then tip Wi-Fi 
+
+
+ It passed the test if the device connected to the Wi-Fi Access Point"</string>
+    <string name="Wifi_Ins3">It passed the test if the device connects to the Wi-Fi network</string>
+    <string name="batrundown_Title">Battery Test</string>
+    <string name="batrundown_instruction">Instruction</string>
+    <string name="batrundown_Insturct1">"Please do not use or touch the device in one 
+ hour for the testing."</string>
+    <string name="batrundown_Insturct2">"Backlight Level: Maximum 
+Total Duration: 01:00:00"</string>
+    <string name="batrundown_Insturct3">start:</string>
+    <string name="batrundown_Insturct4">Battery Level:</string>
+    <string name="batrundown_Insturct5">Battery Voltage:</string>
+    <string name="batrundown_Insturct6">Battery Temperature:</string>
+    <string name="batrundown_Insturct7">Current:</string>
+    <string name="batrundown_Insturct8">Battery Level:</string>
+    <string name="batrundown_Insturct9">Battery Voltage:</string>
+    <string name="batrundown_Insturct10">Battery Temperature:</string>
+    <string name="batrundown_Insturct11">Remaining Time:</string>
+    <string name="battery_info_Percentage_units">%</string>
+    <string name="battery_info_voltage_units">mV</string>
+    <string name="battery_info_temperature_units">° C</string>
+    <string name="battery_Ins1">Charge the battery to full (Ensure the charging LED turned to green) before performing the test.</string>
+    <string name="battery_Ins2">Please do not use or touch the device in one hour for the testing</string>
+    <string name="battery_Ins3">"
+It passed the test if battery level >= 70% after one hour test (The battery must be in-warranty period)"</string>
+    <string name="battery_Insturct">Press back key to the test.</string>
+    <string name="battery_Charge">Please charge battery to full before testing.</string>
+    <string name="battery_RemoveCharger">Please remove the charger for testing.</string>
+    <string name="battery_checkLevel">Please remove the charger for testing.</string>
+    <string name="battery_dec1">Please set the device in Airplane mode before starting the Battery Test</string>
+    <string name="battery_dec2">You can check Setting > Airplane mode</string>
+    <string name="battery_result1">PASS</string>
+    <string name="battery_result2">FAIL</string>
+    <string name="agps_Title">AGPS Test</string>
+    <string name="agps_Instruction">Instruction</string>
+    <string name="agps_Ins1">Please ensure the device is connected to the wireless network (Wi-Fi or 3G/4G)</string>
+    <string name="agps_Ins2" />
+    <string name="agps_Ins3">Turn ON \"Location\"</string>
+    <string name="agps_Ins4">It passed the test if your location is detected in Google map</string>
+    <string name="agps_Insturct">"Enable GPS satellites 
+ (Use wireless networks option must be disable) ."</string>
+    <string name="Livecall_Title">Live call Test</string>
+    <string name="Livecall_Ins1">Ensure a valid SIM card has been inserted in the device</string>
+    <string name="Livecall_Ins2">Made a phone call under the dialing mode.</string>
+    <string name="Safemode_Title">Safe mode</string>
+    <string name="Safemode_instruction">Instruction</string>
+    <string name="Safemode_Ins1">The purpose of safe mode is to boot your device without any installed 3rd party applications. All original default functions still be available in safe mode, and all the changes done in safe mode will be reflected when you reboot in normal mode.</string>
+    <string name="Safemode_Ins2">This will allow you to determine whether or not a 3rd party application has caused the symptoms you are seeing.</string>
+    <string name="Safemode_Ins3">Press back key to understand how to enter safe mode</string>
+    <string name="SafemodeStep_Ins1">Step 1. Press Power button to restart the device</string>
+    <string name="SafemodeStep_Ins2">Step 2. When you see HTC logo animation and hear HTC chime, press and HOLD volume down key until it enter into OS mode.</string>
+    <string name="SafemodeStep_Ins3">Step 3. \"Safe Mode\" text will appear on the lower left of screen</string>
+    <string name="SafemodeStep_Ins4">Press back key can go back to the self-diagnostic program</string>
+
+    <!--======= Factory date reset begin =======-->
+    <string name="Factory_instruction">Instruction</string>
+    <string name="Factory_Title">Factory data reset</string>
+    <string name="Factory_Ins1">The device will be set back to factory default,</string>
+    <string name="Factory_Ins2">Please make sure the important data have been backed up before performing the factory data reset</string>
+    <!--======= Factory date reset end =======-->
+
+    <!--======= Gsensor test begin =======-->
+    <string name="Gsensor_Title">G-Sensor Test</string>
+    <string name="Gsensor_Insturct">Put the device on a plane surface.</string>
+    <!--======= Gsensor test end =======-->
+
+    <string name="Psensor_Title">P-Sensor Test</string>
+    <string name="Psensor_Ins1">Touch the P-Sensor of the device</string>
+    <string name="Psensor_Ins2">It passed the test if the screen brightness decreases</string>
+
+    <string name="Hallsensor_Title">Hall-Sensor Test</string>
+    <string name="Hallsensor_Ins1">Place magnetic fixture in the middle of the blue square, It passed the test when display turns off.</string>
+    <string name="Hallsensor_Ins2">It passed the test if the screen brightness decreases</string>
+
+    <string name="LS_Title">Light-Sensor Test</string>
+    <string name="LS_Ins1">Touch the light sensor and stay for few seconds</string>
+    <string name="LS_Ins2">It passed the test if the Lux value (After) varies after touching the light sensor</string>
+
+    <string name="ok">ok</string>
+
+    <!--======= NFC test begin =======-->
+    <string name="NFC_Title">NFC Test</string>
+    <string name="NFC_Ins1">Another device:\nPlease ensure the another device has NFC(Near Field Communication) function. And active the NFC function,</string>
+    <string name="NFC_Ins2">Your device:\nPlease turn on NFC in \"Settings > More > NFC\"</string>
+    <string name="NFC_Ins3"> </string>
+    <string name="NFC_Ins4"> </string>
+    <string name="NFC_Ins5">Click  Android Beam, then choose On, you can select an app content to beam to another NFC-capable device</string>
+    <string name="NFC_Ins6">Put two devices back to back and make them touch together to test the NFC function.</string>
+    <string name="NFC_Ins7">It passed the test if the app content is transferred to another NFC-capable device</string>
+    <!--======= NFC test end =======-->
+
+    <!--======= LED test begin =======-->
+    <string name="LED_Title">LED Test</string>
+    <string name="btn_green">Green LED</string>
+    <string name="btn_orange">Orange LED</string>
+    <string name="btn_apkey">AP key LED</string>
+    <string name="LED_Ins1">Press \'Green LED\' </string>
+    <string name="LED_Ins2">It passed the test if the Green LED turns \'ON\'</string>
+    <string name="LED_Ins3">Press \'Orange LED\' </string>
+    <string name="LED_Ins4">It passed the test if the Orange LED turns \'ON\'</string>
+    <string name="LED_Ins5">Press \'AP key LED\'</string>
+    <string name="LED_Ins6">It passed the test if the LED of AP key turns \'ON\' \n(Back, Home, RecentApps)</string>
+    <!--======= LED test end =======-->
+</resources>

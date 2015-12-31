@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/audio_test_instruction"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#ff000000" >
+
+    <TextView
+        android:id="@+id/audio_Title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="#ff0000ff"
+        android:text="@string/audio_Title"
+        android:textColor="#ffffffff" />
+
+    <ImageView
+        android:id="@+id/instruction_imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/audio_Title"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10.0dip"
+        android:src="@drawable/soundvolume" />
+
+    <TextView
+        android:id="@+id/audio_instruction"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/instruction_imageView1"
+        android:layout_centerHorizontal="true"
+        android:text="@string/audio_instruction"
+        android:textAppearance="?android:textAppearanceLarge"
+        android:textColor="#ffcccccc"
+        android:textSize="30.0sp" />
+
+    <TextView
+        android:id="@+id/audio_dec1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/instruction_imageView1"
+        android:layout_alignRight="@+id/declare_NextStep2"
+        android:layout_below="@id/audio_instruction"
+        android:layout_marginTop="30.0dip"
+        android:text="@string/audio_dec1" />
+
+    <TextView
+        android:id="@+id/audio_dec2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/instruction_imageView1"
+        android:layout_alignRight="@id/audio_dec1"
+        android:layout_below="@id/audio_dec1"
+        android:layout_marginTop="30.0dip"
+        android:text="@string/audio_dec2" />
+
+    <TextView
+        android:id="@+id/declare_NextStep2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="80.0dip"
+        android:text="@string/declare_NextStep2" />
+
+</RelativeLayout>
